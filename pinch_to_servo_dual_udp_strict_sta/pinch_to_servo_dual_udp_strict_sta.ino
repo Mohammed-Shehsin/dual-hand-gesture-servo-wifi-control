@@ -4,8 +4,8 @@
 #include <ESP32Servo.h>
 
 // ======= Wi-Fi STA (router / hotspot) =======
-const char* WIFI_SSID = "Orange_Swiatlowod_B9F0";     // <-- set
-const char* WIFI_PASS = "YxGi5hSMNv2nj6W9za"; // <-- set
+const char* WIFI_SSID = "OYOUR_WIFI";     // <-- set
+const char* WIFI_PASS = "PASSWORD"; // <-- set
 const uint16_t UDP_PORT = 4210;
 
 // ======= Servos (MG90S) =======
